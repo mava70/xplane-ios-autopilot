@@ -2,7 +2,7 @@
 
 [![Swift 6.0](https://img.shields.io/badge/Swift-6.0-orange.svg)](https://swift.org)
 [![Platform](https://img.shields.io/badge/Platform-iOS%2017%2B-blue.svg)](https://apple.com)
-[![X-Plane](https://img.shields.io/badge/Simulator-X--Plane%2011%2F12-blue.svg)](https://x-plane.com)
+[![X-Plane](https://img.shields.io/badge/Simulator-X--Plane%2F12-blue.svg)](https://x-plane.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 **X-Pilot Remote** transforms your iPhone into a dedicated physical autopilot interface for X-Plane. Manage heading, altitude, and GPS navigation without touching your mouse or breaking immersion in the virtual cockpit. Tested on Xplane 12 only.
